@@ -1,0 +1,2 @@
+# Drone-based-House-Boundary-Wall-Monitoring-System
+Uqaab is an autonomous drone surveillance system built for GPS-denied home boundary monitoring. It combines an ESP32 laser-grid mesh for precise navigation, a custom YOLOv8l model for real-time weapon &amp; person detection, face recognition, wall-climb detection, and live Flutter App with WebSocket alerts  powered by FastAPI, PostgreSQL &amp; ArduPilot.
